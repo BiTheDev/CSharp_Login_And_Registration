@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/bin/Debug/netcoreapp2.0/LoginRegister.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/bin/Debug/netcoreapp2.0/LoginRegister.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/bin/Debug/netcoreapp2.0/LoginRegister.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/bin/Debug/netcoreapp2.0/LoginRegister.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/bin/Debug/netcoreapp2.0/LoginRegister.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/obj/Debug/netcoreapp2.0/LoginRegister.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/obj/Debug/netcoreapp2.0/LoginRegister.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/obj/Debug/netcoreapp2.0/LoginRegister.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/obj/Debug/netcoreapp2.0/LoginRegister.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/obj/Debug/netcoreapp2.0/LoginRegister.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day10/LoginRegister/obj/Debug/netcoreapp2.0/LoginRegister.pdb
